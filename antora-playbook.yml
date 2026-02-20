@@ -1,6 +1,6 @@
 site:
-  title: FIXME Course Title
-  start_page: REPLACEREPONAME::index.adoc
+  title: Quick Course Experiments with Claude Code
+  start_page: quickcourse-claude-test::index.adoc
 
 content:
   sources:

@@ -1,5 +1,5 @@
-name: REPLACEREPONAME
-title: FIXME Course Title
+name: quickcourse-claude-test
+title: Quick Course Experiments with Claude Code
 version: 1
 nav:
 - modules/ROOT/nav.adoc
