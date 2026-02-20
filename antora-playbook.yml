@@ -6,8 +6,8 @@ content:
   sources:
   - url: ./
     branches: HEAD
-  - url: ../quickcourse-claude-test-samples
-    branches: HEAD
+  - url: https://github.com/flozanorht/quickcourse-claude-test-samples.git
+    branches: main
 
 asciidoc:
   attributes:
