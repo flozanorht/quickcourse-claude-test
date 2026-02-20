@@ -25,3 +25,12 @@ This course assumes that you have the following prior experience:
 * Course or experience...
 * Course or experience...
 * Course or experience...
+
+== Sample Code
+
+Example from Chapter 1:
+
+[source]
+----
+include::chapter1:example$hello.txt[]
+----

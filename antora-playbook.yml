@@ -5,8 +5,9 @@ site:
 content:
   sources:
   - url: ./
+    branches: HEAD
   - url: ../quickcourse-claude-test-samples
-    branches: main
+    branches: HEAD
 
 asciidoc:
   attributes:
