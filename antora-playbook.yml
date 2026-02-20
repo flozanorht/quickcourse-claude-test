@@ -7,8 +7,6 @@ content:
   - url: ./
   - url: ../quickcourse-claude-test-samples
     branches: main
-    start_paths:
-    - modules/*
 
 asciidoc:
   attributes:
