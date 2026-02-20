@@ -28,7 +28,7 @@ This course assumes that you have the following prior experience:
 
 == Sample Code
 
-New example from Chapter 1:
+Third example from Chapter 1:
 
 [source]
 ----
