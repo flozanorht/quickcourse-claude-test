@@ -1,9 +1,9 @@
-= An Example Quick Course
+= Quick Course Experiments with Claude Code
 :navtitle: Home
 
 == Introduction
 
-Course Title: Course title FIXME
+Course Title: Quick Course Experiments with Claude Code
 
 Description:
 Course description FIXME
